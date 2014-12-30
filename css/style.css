@@ -1,0 +1,31 @@
+@import url('http://fonts.googleapis.com/css?family=Radley');
+@import url('http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+@import url("flexy-menu.css");
+
+body {
+	background: url(../images/background-coffee-beans.jpg) no-repeat fixed;
+	background-size: cover;
+	font-family: 'Radley', serif;
+	font-size: 18px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	margin: 0;
+	padding: 0;
+}
+.radley {
+	font-family: 'Radley', serif !important;
+}
+.inverted {
+	color: #FFF !important;
+}
+.img {
+	width: 35%;
+	max-width: 35%;
+}
+.hidden {
+	display: none !important;
+}
+.content {
+	margin: 0px 50px 0px 50px;
+}
