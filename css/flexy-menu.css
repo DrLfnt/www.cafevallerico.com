@@ -1,5 +1,6 @@
 .flexy-menu {
 	margin: 50px 0 0 0!important;
+	z-index: 1;
 }
 .flexy-menu {
 	width: 100%;
